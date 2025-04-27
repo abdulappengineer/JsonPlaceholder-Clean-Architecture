@@ -1,8 +1,3 @@
-Of course!  
-Here’s a **professional and clean `README.md`** you can use for your GitHub project [JsonPlaceholder-Clean-Architecture](https://github.com/abdulappengineer/JsonPlaceholder-Clean-Architecture):
-
----
-
 # JsonPlaceholder-Clean-Architecture
 
 This is a sample Android application demonstrating **Clean Architecture** principles using **Kotlin**, **Jetpack Compose**, **Hilt**, **Retrofit**, and **Coroutines**.  
